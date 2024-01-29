@@ -1,0 +1,192 @@
+{
+  "id": "cpb-aacip-05a9a67fd3d.mp3",
+  "language": "en-US",
+  "parts": [
+    {
+      "start_time": "0",
+      "end_time": "6.320",
+      "text": "This is weather wise.",
+      "speaker_id": 1
+    },
+    {
+      "start_time": "6.320",
+      "end_time": "11.400",
+      "text": "The 18th century meteorologist George Hadley was the first to suggest the existence of",
+      "speaker_id": 2
+    },
+    {
+      "start_time": "11.400",
+      "end_time": "15.720",
+      "text": "a circulation pattern, now known as the Hadley Sal.",
+      "speaker_id": 3
+    },
+    {
+      "start_time": "15.720",
+      "end_time": "21.660",
+      "text": "He thought warm air rising at the equator would move toward the north and south poles,",
+      "speaker_id": 4
+    },
+    {
+      "start_time": "21.660",
+      "end_time": "25.600",
+      "text": "and he figured that when the air reached the cold temperatures around the poles it would",
+      "speaker_id": 5
+    },
+    {
+      "start_time": "25.600",
+      "end_time": "30.240",
+      "text": "sink and head back along the ground toward the equator.",
+      "speaker_id": 6
+    },
+    {
+      "start_time": "30.240",
+      "end_time": "35.760",
+      "text": "That pattern was a highly simplified version of what average circulation really looks like.",
+      "speaker_id": 7
+    },
+    {
+      "start_time": "35.760",
+      "end_time": "40.880",
+      "text": "One important difference between Hadley's concept and reality is the effect of the Earth's",
+      "speaker_id": 8
+    },
+    {
+      "start_time": "40.880",
+      "end_time": "41.880",
+      "text": "rotation.",
+      "speaker_id": 9
+    },
+    {
+      "start_time": "41.880",
+      "end_time": "47.160",
+      "text": "Instead of a single large pattern developing, the planet's rotation causes three small",
+      "speaker_id": 10
+    },
+    {
+      "start_time": "47.160",
+      "end_time": "51.720",
+      "text": "circulation patterns or cells to develop in each hemisphere.",
+      "speaker_id": 11
+    },
+    {
+      "start_time": "51.720",
+      "end_time": "56.760",
+      "text": "In the northern hemisphere, the first cell has warm air rising at the equator, then moving",
+      "speaker_id": 12
+    },
+    {
+      "start_time": "56.760",
+      "end_time": "58.040",
+      "text": "northward.",
+      "speaker_id": 13
+    },
+    {
+      "start_time": "58.040",
+      "end_time": "62.080",
+      "text": "But instead of making it all the way to the north pole, the air sinks to the surface",
+      "speaker_id": 14
+    },
+    {
+      "start_time": "62.080",
+      "end_time": "64.760",
+      "text": "at about 30 degrees north.",
+      "speaker_id": 15
+    },
+    {
+      "start_time": "64.760",
+      "end_time": "68.680",
+      "text": "It then moves back along the surface towards the equator.",
+      "speaker_id": 16
+    },
+    {
+      "start_time": "68.680",
+      "end_time": "72.240",
+      "text": "Because of the rotation of the Earth, the air movement is deflected to the right in",
+      "speaker_id": 17
+    },
+    {
+      "start_time": "72.240",
+      "end_time": "76.560",
+      "text": "the northern hemisphere, causing winds to blow from the north and east.",
+      "speaker_id": 18
+    },
+    {
+      "start_time": "76.560",
+      "end_time": "81.880",
+      "text": "The second of the three circulation cells is called the feral cell after its discoverer.",
+      "speaker_id": 19
+    },
+    {
+      "start_time": "81.880",
+      "end_time": "86.720",
+      "text": "In the northern hemisphere, it also has air sinking at about 30 degrees north latitude,",
+      "speaker_id": 20
+    },
+    {
+      "start_time": "86.720",
+      "end_time": "91.080",
+      "text": "but instead of heading back towards the equator like the Hadley cell, this one continues",
+      "speaker_id": 21
+    },
+    {
+      "start_time": "91.080",
+      "end_time": "93.640",
+      "text": "to move northward along the ground.",
+      "speaker_id": 22
+    },
+    {
+      "start_time": "93.640",
+      "end_time": "98.800",
+      "text": "It rises again at about 60 degrees north and then heads south at high altitude to complete",
+      "speaker_id": 23
+    },
+    {
+      "start_time": "98.800",
+      "end_time": "100.640",
+      "text": "its circuit.",
+      "speaker_id": 24
+    },
+    {
+      "start_time": "100.640",
+      "end_time": "104.720",
+      "text": "Winds in that pattern are also deflected to the right so they flow along the ground from",
+      "speaker_id": 25
+    },
+    {
+      "start_time": "104.720",
+      "end_time": "107.080",
+      "text": "the west or southwest.",
+      "speaker_id": 26
+    },
+    {
+      "start_time": "107.080",
+      "end_time": "109.680",
+      "text": "The final pattern is called the polar cell.",
+      "speaker_id": 27
+    },
+    {
+      "start_time": "109.680",
+      "end_time": "113.320",
+      "text": "It has cold air moving southward along the surface from the Arctic.",
+      "speaker_id": 28
+    },
+    {
+      "start_time": "113.320",
+      "end_time": "119.000",
+      "text": "At about 60 degrees north latitude it rises, then heads back towards the Arctic.",
+      "speaker_id": 29
+    },
+    {
+      "start_time": "119.000",
+      "end_time": "122.080",
+      "text": "The surface winds in that system blow out of the east.",
+      "speaker_id": 30
+    },
+    {
+      "start_time": "122.080",
+      "end_time": "152.040",
+      "text": "But otherwise, I'm Clubarla.",
+      "speaker_id": 31
+    }
+  ]
+}
